@@ -18,11 +18,18 @@ sudo make install
 ![image](https://github.com/user-attachments/assets/d25e8607-dcc4-49e8-bbc4-b2d887147fd2)
 
 ```
+```
+###  **2.) IVERILOG**
+```
 Steps to install iverilog
 sudo apt-get update
 sudo apt-get install iverilog
+
 ```
 ![image](https://github.com/user-attachments/assets/92cd5170-b377-4799-b83a-c75a494af934)
+```
+```
+###  **1.) GTKWAVE**
 ```
 
 gtkwave
